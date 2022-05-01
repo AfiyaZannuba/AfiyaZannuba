@@ -1,0 +1,27 @@
+#Switching the values stored in the variables a and b.
+a = input("a:")
+b = input("b:")
+#Don't change the code above
+#Write your code below this line
+
+c=a
+a=b
+b=c
+
+
+
+
+
+
+
+
+
+#Don't change the code below
+print("a: " +a)
+print("b: " +b)
+
+#Output must be
+# a =3
+# b =5
+# a =5
+# b =3
