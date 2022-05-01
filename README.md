@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @AfiyaZannuba
+- Learning Coding and Using GitHub Since 01/05/2022
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python And Data Analytics
 - 💞️ I’m looking to collaborate on Data Analytics And Python Projects
