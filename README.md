@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AfiyaZannuba
 - Learning Coding and Using GitHub Since 01/05/2022
 - 👀 I’m a Software Developer
-- 🌱 I’m currently learning Java and Selenium
 - 💞️ I’m focused on creating full-stack developer projects
 - 📫 How to reach me : afiya.zannubaa@gmail.com
 
